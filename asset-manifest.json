@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/audio-to-webusb-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/audio-to-webusb-test/static/js/main.f2156c01.chunk.js",
-    "main.js.map": "/audio-to-webusb-test/static/js/main.f2156c01.chunk.js.map",
-    "runtime-main.js": "/audio-to-webusb-test/static/js/runtime-main.3e1c02e1.js",
-    "runtime-main.js.map": "/audio-to-webusb-test/static/js/runtime-main.3e1c02e1.js.map",
-    "static/js/2.b132024e.chunk.js": "/audio-to-webusb-test/static/js/2.b132024e.chunk.js",
-    "static/js/2.b132024e.chunk.js.map": "/audio-to-webusb-test/static/js/2.b132024e.chunk.js.map",
-    "static/js/3.18ace0f3.chunk.js": "/audio-to-webusb-test/static/js/3.18ace0f3.chunk.js",
-    "static/js/3.18ace0f3.chunk.js.map": "/audio-to-webusb-test/static/js/3.18ace0f3.chunk.js.map",
+    "main.js": "/audio-to-webusb-test/static/js/main.71923c8e.chunk.js",
+    "main.js.map": "/audio-to-webusb-test/static/js/main.71923c8e.chunk.js.map",
+    "runtime-main.js": "/audio-to-webusb-test/static/js/runtime-main.b5907f9a.js",
+    "runtime-main.js.map": "/audio-to-webusb-test/static/js/runtime-main.b5907f9a.js.map",
+    "static/js/2.a4a16643.chunk.js": "/audio-to-webusb-test/static/js/2.a4a16643.chunk.js",
+    "static/js/2.a4a16643.chunk.js.map": "/audio-to-webusb-test/static/js/2.a4a16643.chunk.js.map",
+    "static/js/3.8b397b65.chunk.js": "/audio-to-webusb-test/static/js/3.8b397b65.chunk.js",
+    "static/js/3.8b397b65.chunk.js.map": "/audio-to-webusb-test/static/js/3.8b397b65.chunk.js.map",
     "index.html": "/audio-to-webusb-test/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/audio-to-webusb-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b132024e.chunk.js.LICENSE.txt": "/audio-to-webusb-test/static/js/2.b132024e.chunk.js.LICENSE.txt",
+    "static/js/2.a4a16643.chunk.js.LICENSE.txt": "/audio-to-webusb-test/static/js/2.a4a16643.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/audio-to-webusb-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e1c02e1.js",
-    "static/js/2.b132024e.chunk.js",
+    "static/js/runtime-main.b5907f9a.js",
+    "static/js/2.a4a16643.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f2156c01.chunk.js"
+    "static/js/main.71923c8e.chunk.js"
   ]
 }
